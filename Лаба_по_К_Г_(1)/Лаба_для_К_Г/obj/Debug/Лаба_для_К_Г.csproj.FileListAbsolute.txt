@@ -1,0 +1,46 @@
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe.config
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csprojAssemblyReference.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Form1.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Properties.Resources.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.GenerateResource.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\Стс - 109\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe.config
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csprojAssemblyReference.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Form1.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Properties.Resources.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.GenerateResource.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_для_К_Г\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csprojAssemblyReference.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Form1.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Properties.Resources.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.GenerateResource.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe.config
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe.config
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.pdb
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csprojAssemblyReference.cache
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Form1.resources
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Properties.Resources.resources
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.GenerateResource.cache
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.exe
+C:\Users\RRRRR\Desktop\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.pdb
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe.config
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.exe
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\bin\Debug\Лаба_для_К_Г.pdb
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.AssemblyReference.cache
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Form1.resources
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.Properties.Resources.resources
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.GenerateResource.cache
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.csproj.CoreCompileInputs.cache
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.exe
+E:\ДМИТРИЙ\СТС\1 Курс\Верхотуров\Лаба_по_К_Г_(1)\Лаба_для_К_Г\obj\Debug\Лаба_для_К_Г.pdb

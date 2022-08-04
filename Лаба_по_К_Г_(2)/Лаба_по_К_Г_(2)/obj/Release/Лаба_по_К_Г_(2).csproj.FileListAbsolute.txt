@@ -1,0 +1,9 @@
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\bin\Release\Лаба_по_К_Г_(2).exe.config
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\bin\Release\Лаба_по_К_Г_(2).exe
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\bin\Release\Лаба_по_К_Г_(2).pdb
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\obj\Release\Лаба_по_К_Г_(2).csprojAssemblyReference.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\obj\Release\Лаба_по_К_Г__2_.Form1.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\obj\Release\Лаба_по_К_Г__2_.Properties.Resources.resources
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\obj\Release\Лаба_по_К_Г_(2).csproj.GenerateResource.cache
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\obj\Release\Лаба_по_К_Г_(2).exe
+C:\Users\RRRRR\Desktop\Стс - 109\Верхотуров\Лаба_по_К_Г_(2)\Лаба_по_К_Г_(2)\obj\Release\Лаба_по_К_Г_(2).pdb
